@@ -1,0 +1,278 @@
+
+.navbar_barbershop{
+	margin-bottom: -2em;
+}        
+
+.navbar-logo img{
+    width: 112px;
+    position: relative;
+    left: 12px;
+    top: -13px;
+
+}
+
+/*encabezado*/
+.titulo{
+	background-image: url(../img/post-image.jpg);
+	background-size: 99vw;
+	background-repeat: no-repeat;
+	height: 100vh;
+	text-align: center;
+	color: white;
+	margin-bottom: -13em;
+
+	
+}
+.titulo h1{
+	font-size: 6em;
+	position: relative;
+	top: 32%;
+	font-family: 'Playfair Display';
+	
+
+}
+.titulo img{
+	height:4em;
+	position: relative;
+	top:25em;
+	
+}
+
+
+
+/*seccion historia*/
+
+.parrafos img{
+	width: 2em;
+}
+
+.parrafos{
+	position: relative;
+	top: 249px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*iconos bajo el parrajo*/
+
+.iconos{
+	position: relative;
+	left: 12em;
+	top: 3em;
+}
+
+.btn-heart{
+	border-radius: 40px;
+	font-size: 11px;
+	background-color: gray;
+}
+
+.btn-share{
+	border-radius: 40px;
+	font-size: 11px;
+}
+
+.btn-comment{
+	border-radius: 40px;
+	font-size: 11px;
+}
+
+
+.user-icon{
+	width: 3em;
+	position: relative;
+	left: 46em;
+	top: 24em;
+	
+}
+
+
+.container-contacto{
+	position: relative;
+	top: 30em;
+
+}
+
+.naomi{
+	border-radius: 130px;
+	left: 2em;
+}
+
+.contacto{
+	position: relative;
+	left: 4em;
+	top: 2em;
+
+}
+
+.leyend-naomi{
+	position: relative;
+	top: 2em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.carousel{
+	margin-top: 4em;
+	height: 8em;
+	font-size:1em;
+	background-color:gray;
+	text-align: center;
+	color: lightgray;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.panel-footer{
+	background-color: black;
+	text-align: center;
+	height: 7em;
+	
+}
+
+.panel-footer img{
+	height: 4em;
+	position: relative;
+	top: 1em;
+}
+
+
+
+@media only screen and (max-width : 767px) {
+
+
+.navbar_barbershop{
+	margin-bottom: -2em;
+}        
+
+.navbar-logo img{
+    width: 112px;
+    position: relative;
+    left: 12px;
+    top: -13px;
+
+}
+
+/*encabezado*/
+.titulo{
+	background-image: url(../img/post-image.jpg);
+	background-size: 99vw;
+	background-repeat: no-repeat;
+	height: 100vh;
+	text-align: center;
+	color: white;
+	margin-bottom: -13em;
+
+	
+}
+.titulo h1{
+	font-size: 3em;
+	position: relative;
+	top: 10%;
+	font-family: 'Playfair Display';
+	
+
+}
+.titulo img{
+	height:4em;
+	position: relative;
+	top:10em;
+	
+}
+
+
+
+/*seccion historia*/
+
+.parrafos img{
+	width: 1em;
+}
+
+.parrafos{
+	position: relative;
+	top: 3em;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*iconos bajo el parrajo*/
+
+.iconos{
+	position: relative;
+	left: 12em;
+	top: 3em;
+}
+
+.btn-heart{
+	border-radius: 40px;
+	font-size: 11px;
+	background-color: gray;
+}
+
+.btn-share{
+	border-radius: 40px;
+	font-size: 11px;
+}
+
+.btn-comment{
+	border-radius: 40px;
+	font-size: 11px;
+}
+
+
+.user-icon{
+	width: 3em;
+	position: relative;
+	left: 16em;
+	top: 10em;
+	
+}
+
+
+.container-contacto{
+	position: relative;
+	top: 14em;
+	left: 9em;
+}
+
+.naomi{
+	border-radius: 130px;
+	left: 2em;
+}
+
+.contacto{
+	position: relative;
+	left: 4em;
+	top: 2em;
+
+}
+
+.leyend-naomi{
+	position: relative;
+	top: 2em;
+	display: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.carousel{
+	margin-top: 4em;
+	height: 5em;
+	font-size:1em;
+	background-color:gray;
+	text-align: center;
+	color: lightgray;
+	right: 9em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.panel-footer{
+	background-color:black;
+	text-align: center;
+	height: 7em;
+	position: relative;
+	right: 9em;
+	
+}
+}
